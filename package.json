@@ -1,0 +1,16 @@
+{
+  "name": "observable-inked-list",
+  "version": "1.0.0",
+  "description": "observe a linked list of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": ['observable', 'list'],
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
+  "license": "ISC",
+  "devDependencies": {
+    "mutant": "^3.22.1",
+    "tape": "^4.9.0"
+  }
+}
