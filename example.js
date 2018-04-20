@@ -16,4 +16,4 @@ listObs( list => {
 
 obs.b.set('bar') // --> [ { link: 'b' }, 'bar' ]
 obs.a.set({link: 'c'}) // --> [ { link: 'c' }, 'baz' ]
-
+obs.c.set({link: 'b'}) // --> [ { link: 'c' }, { link: 'b' }, 'bar' ]
