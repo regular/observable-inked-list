@@ -6,7 +6,7 @@
   "scripts": {
     "test": "tape test.js"
   },
-  "keywords": ['observable', 'list'],
+  "keywords": ["observable", "list"],
   "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
   "license": "ISC",
   "devDependencies": {
