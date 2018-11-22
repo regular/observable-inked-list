@@ -1,5 +1,5 @@
 {
-  "name": "observable-inked-list",
+  "name": "observable-linked-list",
   "version": "1.0.0",
   "description": "observe a linked list of objects",
   "main": "index.js",
